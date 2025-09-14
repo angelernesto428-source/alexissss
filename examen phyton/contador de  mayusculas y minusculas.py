@@ -1,4 +1,4 @@
-#CONTADOR DE MAYUSCULAS Y MINUSCULAS
+#CONTADOR DE MAYUSCULAS Y MINUSCULAS 19
 
 def contar_mayus_minus(texto):
     if isinstance(texto, str):
@@ -19,7 +19,7 @@ def contar_mayus_minus(texto):
     raise TypeError    
     raise typeError("El coso debe ser una cadena de texto")
 
-frase = "PhyTon eS tRemEndO"
+frase = "los SIlsons"
 try:
     resultado = contar_mayus_minus(frase)
     print(f"En la frase hay {resultado[0]}  minusculas y {resultado[1]}  mayusculas")
