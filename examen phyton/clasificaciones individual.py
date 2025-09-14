@@ -1,5 +1,5 @@
 #coas de clasificacion
-
+#indivual angel gomez lo otro es con ana rubio esto es mio
 
 registros_estudiantes = [
     ('Juan Pénez', 'Matemáticas', 85, 92),
@@ -38,3 +38,4 @@ print("--- Reporte de Clasificación Académica ---")
 print(f" Aprobados: {aprobados}")
 print(f" Reprobados: {reprobados}")
 print(f"Cuadro de Honor: {cuadro_de_honor}")
+
