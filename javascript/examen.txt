@@ -1,0 +1,34 @@
+¡Hola equipo! 🚀💻 ¡A calentar motores con JavaScript! 🔥 Les envío una tanda de ejercicios para que reforcemos los pilares del lenguaje, desde lo más básico hasta la manipulación del DOM. ¡Vamos a darle con todo! #️⃣
+
+---
+
+*NIVEL FÁCIL* 💪
+
+*Ejercicio 1: Declaración de Variables* 🔢
+- *Enunciado:* Crea un script que declare tu nombre, año de nacimiento y año actual. ¡Calcula tu edad y muéstrala en la consola!
+- *Requerimientos:* Usa `let`/`const`, tipos `string` y `number`, haz una resta y muestra el resultado con `console.log()`.
+
+*Ejercicio 2: Operadores y Condicionales* 🗳️
+- *Enunciado:* Pide al usuario su edad y dile si es mayor de edad o no.
+- *Requerimientos:* Usa `prompt()`, convierte la entrada a `number`, y utiliza una estructura `if-else`.
+
+*Ejercicio 3: Manipulación de Strings* ✨
+- *Enunciado:* Pide nombre y apellido por separado, únelos en una variable de nombre completo y muéstralo en MAYÚSCULAS.
+- *Requerimientos:* Dos `prompt()`, concatenación (con `+` o `` `${}` ``) y el método `.toUpperCase()`.
+
+*Ejercicio 4: Primer Array* 🍇
+- *Enunciado:* Crea un array con 5 de tus frutas favoritas. Muestra el array completo, y luego solo la primera y la última fruta.
+- *Requerimientos:* Crea un array de strings y accede a los elementos por su índice (¡recuerda el truco con `.length` para el último!).
+
+*Ejercicio 5: Bucle `for` Básico* 🔟
+- *Enunciado:* ¡Simple! Usa un bucle `for` para imprimir los números del 1 al 10 en la consola.
+- *Requerimientos:* Estructura `for` clásica con inicialización, condición e incremento.
+
+---
+
+*NIVEL INTERMEDIO* 🧠⚡
+
+*Ejercicio 6: Condicionales Anidados* 🎓
+- *Enunciado:* Pide una nota del 0 al 10 y conviértela a calificación: Suspenso, Aprobado, Notable o Sobresaliente.
+- *Requerimientos:* Usa `if-elif-else`, operadores lógicos `&&` y maneja entradas no válidas.
+
