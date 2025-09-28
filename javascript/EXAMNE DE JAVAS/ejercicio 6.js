@@ -14,4 +14,7 @@ if (nota  <=4) {
     console.log("puntaje alto,aprobado")
 }else if (nota == 10) {
     console.log("sobresaliente,felicidades")
+}else {
+    console.log("nota no valida")
 }
+
