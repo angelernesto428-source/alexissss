@@ -4,3 +4,8 @@ print("yo soy " + nombre + " y tengo " + str (edad) + " años")
 print(f"yo soy {nombre} y tengo {edad} años.")
 
 print("nose que poner auyuyuyiuui invitame marito")
+
+
+
+
+https://github.com/danielzespitia/Python-avanzado
