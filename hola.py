@@ -9,3 +9,12 @@ print("nose que poner auyuyuyiuui invitame marito")
 
 
 https://github.com/danielzespitia/Python-avanzado
+
+
+import os
+
+# Agrega esto antes de crear a tu 'sujeto'
+os.system('cls') 
+
+sujeto = humano("angel", "gomez", "17")
+# ... resto de tu código
